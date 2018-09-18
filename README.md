@@ -27,15 +27,24 @@ This file stores the follow relations between users. Note that, all the numbers 
 
 first column: Follower_index | second column: Friend_index
 
-for example: "0"	"180".  User_index 0 is following User_index 180.
+for example: "0"	"180".  (User_index 0 is following User_index 180)
 
 ## 'twitter_tweets_relation_index'
+This file stores the retweet and reply relations between tweets. Note that, all numbers are indicating tweet_index numbers.
 
+first column: original_tweet_index | second column: retweet/reply tweet_index | third column: relation type (1 for reply, 2 for retweet)
+
+for example: "35"	"40"	"2" (tweet_index 35 is retweeted by tweet_index 40); "95"	"103"	"2" (tweet_index 95 is replied by tweet_index 103)
 
 ## 'twitter_user_mention_index'
+This file stores the mention relation. User is mentioned by a tweet.
 
+first column: mentioned User_index | second column: tweet_index
+
+for example: "3"	"1856312" (user_index 3 is mentioned by tweet_index 1856312)
 
 *Note that, due to the request from Twitter, we can not publish the content of Twitter.
 
 # References
-If you use this data set for research, please cite one of the following papers:
+If you use this data set for research, please cite the following paper:
+"Peiyao Li,Weiliang Zhao, and Jian Yang. 2018. CoRank: A Coupled Dual Networks Approach to Trust Evaluation on Twitter. In the 19TH International Conference on Web Information Systems Engineering." 
