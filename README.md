@@ -47,4 +47,5 @@ for example: "3"	"1856312" (user_index 3 is mentioned by tweet_index 1856312)
 
 # References
 If you use this data set for research, please cite the following paper:
+
 "Peiyao Li,Weiliang Zhao, and Jian Yang. 2018. CoRank: A Coupled Dual Networks Approach to Trust Evaluation on Twitter. In the 19TH International Conference on Web Information Systems Engineering." 
