@@ -22,7 +22,7 @@ first column: TweetID | second column: Tweet_index | third column: User_index
 
 for example: "100000183710007296"	"0"	"12423"
 
-Because this file is too big, you can download it from [here](https://www.dropbox.com/s/d2un1pqgjx5ehxf/twitter_tweets_all_user_posted.txt?dl=0)
+Because this file is too big, you can download it from [here](https://www.dropbox.com/s/d2un1pqgjx5ehxf/twitter_tweets_all_user_posted.txt?dl=0) (*note that you don't need to create a dropbox account to download the file.)
 
 ## 'twitter_follower_friend_index'
 This file stores the follow relations between users. Note that, all the numbers are indicating user_index numbers.
