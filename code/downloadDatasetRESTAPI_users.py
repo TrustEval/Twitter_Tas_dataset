@@ -39,10 +39,10 @@ class MyModelParser(tweepy.parsers.ModelParser):
 
 def authTwitter():
     """ Connect to Twitter API using user credentials"""
-    consumer_key = "y893zFKiGnQMZma2uFc0xXyvJ"
-    consumer_secret = "kJO1LZr4BjChjJu8Hkdw3TcDpfqXRpDYSNLRUtQtuBgApR2DuH"
-    access_key = "909650284699312128-BW9vKYC9ofvhN2CebyttDoQgt2HxgiW"
-    access_secret = "ShUYrWbe1O25C8HeofFXPj0dG9k73Qh7THSigfWx4zOo0"
+    consumer_key = "your_key"
+    consumer_secret = "your_secret"
+    access_key = "access_key"
+    access_secret = "access_secret"
 
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_key, access_secret)
