@@ -91,6 +91,6 @@ isbn="978-3-030-02922-7"
 }
 ```
 
-In addition, if you are interested in the topic of Social Network trust, you may want to know another work of ours: ["CoTrRank: Trust Evaluation of Users and Tweets"]()
+In addition, if you are interested in the topic of Social Network trust, you may want to know another work of ours: ["CoTrRank: Trust Evaluation of Users and Tweets"](https://github.com/TrustEval/CoTrRank_Trust_Evaluation)
 
 If you have any questions, please feel free to contact us.
