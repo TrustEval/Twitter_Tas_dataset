@@ -72,6 +72,23 @@ for example:
 # References
 If you use this data set for research, please cite the following paper:
 
-"Peiyao Li,Weiliang Zhao, and Jian Yang. 2018. CoRank: A Coupled Dual Networks Approach to Trust Evaluation on Twitter. In the 19TH International Conference on Web Information Systems Engineering." 
+```
+@InProceedings{10.1007/978-3-030-02922-7_10,
+author="Li, Peiyao
+and Zhao, Weiliang
+and Yang, Jian",
+editor="Hacid, Hakim
+and Cellary, Wojciech
+and Wang, Hua
+and Paik, Hye-Young
+and Zhou, Rui",
+title="CoRank: A Coupled Dual Networks Approach to Trust Evaluation on Twitter",
+booktitle="Web Information Systems Engineering -- WISE 2018",
+year="2018",
+publisher="Springer International Publishing",
+pages="145--160",
+isbn="978-3-030-02922-7"
+}
+```
 
 If you have any questions, please feel no hesitate to contact me on github.
