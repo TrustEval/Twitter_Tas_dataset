@@ -91,4 +91,6 @@ isbn="978-3-030-02922-7"
 }
 ```
 
-If you have any questions, please feel no hesitate to contact me on github.
+In addition, if you are interested in the topic of Social Network trust, you may want to know another work of ours: ["CoTrRank: Trust Evaluation of Users and Tweets"]()
+
+If you have any questions, please feel free to contact us.
