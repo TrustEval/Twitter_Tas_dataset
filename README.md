@@ -7,6 +7,10 @@ The proposed Co-Rank method and detailed experimental results can be found in ou
 
 ## "CoRank A Coupled Dual Networks Approach to Trust Evaluation on Twitter" (WISE 2018).
 
+More detailed work has been published in the journal article:
+
+## "Let’s CoRank: trust of users and tweets on social networks" (World Wide Web).
+
 The data set is designed for research purpose only. There are four files storing the Twitter data crawled from Twitter using its official REST API.
 
 ## 'tas_users' 
@@ -72,7 +76,7 @@ for example:
 *Note that, due to the request from Twitter, we can not publish the content of Twitter.*
 
 # References
-If you use this data set for research, please cite the following paper:
+If you use this data set for research, please cite the following paper(s):
 
 ```
 @InProceedings{10.1007/978-3-030-02922-7_10,
@@ -90,6 +94,20 @@ year="2018",
 publisher="Springer International Publishing",
 pages="145--160",
 isbn="978-3-030-02922-7"
+}
+```
+
+```
+@article{10.1007/s11280-020-00829-4,
+author = "Li, Peiyao
+and Zhao, Weiliang
+and Yang, Jian
+and Sheng, Quan Z.
+and Wu, Jia",
+journal = "World Wide Web",
+pages = "1573-1413",
+title = "Let’s CoRank: trust of users and tweets on social networks",
+year = "2020"
 }
 ```
 
